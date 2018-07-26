@@ -4,6 +4,9 @@ function scuberGreetingForFeet(ride){
     console.log("This one is on me!")
   }
   else if (ride < 2000 && ride < 2500) {
-    console.log(30)
+    console.log("$30")
+  }
+  else if (ride >= 2500) {
+    console.log("not allowed")
   }
 }
