@@ -16,6 +16,6 @@ function ternaryCheckCity (city){
     return ("Ok, sounds good.")
   }
   else {
-    return "No can do."
+    return "No go."
   }
 }
