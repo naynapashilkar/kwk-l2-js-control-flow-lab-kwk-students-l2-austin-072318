@@ -4,7 +4,7 @@ function scuberGreetingForFeet(ride){
     return("This one is on me!")
   }
   else if (ride < 2000 && ride < 2500) {
-    return("I will gladly take you thirty bucks.")
+    return("I will gladly take your thirty bucks.")
   }
   else if (ride >= 2500) {
     return("No can do.")
